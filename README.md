@@ -33,5 +33,5 @@ This project simulates tensile and compressive behavior of HEAs under various co
 
 ## Documentation
 
-Full technical report and visual data are available in [`HighEntropyAlloy-MD-Study.pdf`](./HighEntropyAlloy-MD-Study.pdf)
+Full technical report and visual data are available in [`report.pdf`](report.pdf)
 
