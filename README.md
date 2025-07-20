@@ -33,5 +33,6 @@ This project simulates tensile and compressive behavior of HEAs under various co
 
 ## Documentation
 
-Full technical report and visual data are available in [`report.pdf`](report.pdf)(slides.pdf)
+Full technical report and visual data are available in [`report.pdf`](report.pdf) and [`slide.pdf`](slide.pdf).
+
 
